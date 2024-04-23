@@ -7,7 +7,6 @@ import {
   useCallback,
 } from "react";
 
-import S from "./styles.module.css";
 import { TileState } from "../Tile";
 
 export interface IGame {
