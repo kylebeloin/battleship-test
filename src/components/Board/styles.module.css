@@ -1,0 +1,10 @@
+.board {
+  display: grid;
+  grid-template-columns: repeat(11, 1fr);
+  grid-template-rows: repeat(11, 1fr);
+  border: 1px solid black;
+}
+
+.letter {
+  color: black;
+}
